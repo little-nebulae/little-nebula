@@ -27,7 +27,6 @@
   },
   "devDependencies": {
     "@arethetypeswrong/core": "0.18.5",
-    "@ttsc/paths": "0.30.4",
     "@types/node": "26.6.4",
     "oxfmt": "0.72.0",
     "oxlint": "1.87.0",
@@ -44,9 +43,9 @@
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "12.9.1",
+      "version": "12.10.1",
       "onFail": "warn"
     }
   },
-  "packageManager": "pnpm@12.9.1"
+  "packageManager": "pnpm@12.10.1"
 }
