@@ -19,6 +19,8 @@ updates:
           - "oxlint"
           - "oxlint-tsgolint"
           - "@oxc-node/*"
+    ignore:
+      - dependency-name: "typescript"
 
   - package-ecosystem: "github-actions"
     directory: "/"
