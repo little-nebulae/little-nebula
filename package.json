@@ -43,6 +43,11 @@
       "name": "pnpm",
       "version": "12.16.1",
       "onFail": "warn"
+    },
+    "runtime": {
+      "name": "node",
+      "version": "^26.0.0",
+      "onFail": "warn"
     }
   },
   "packageManager": "pnpm@12.16.1"
